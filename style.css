@@ -1,8 +1,13 @@
 body {
-  font-size: 500%;
-  color: red;
+  padding: 10px;
+  font-size: 120%;
+  color: #123456;
 }
 
 h1 {
   color: pink;
+}
+
+img {
+  border-radius: 25px;
 }
