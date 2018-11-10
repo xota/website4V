@@ -7,13 +7,13 @@ Ik typte achtereenvolgens
 i m a g e s / R E A D M E . m d
 
 Wat je achtervolgens zag was:
-website4V/ i
-website4V/ im
-website4V/ ima
-website4V/ imag
-website4V/ image
-website4V/ images
-website4V/images/
-website4V/images/ R
-website4V/images/ RE
-enz.
+# website4V/ i
+# website4V/ im
+# website4V/ ima
+# website4V/ imag
+# website4V/ image
+# website4V/ images
+# website4V/images/
+# website4V/images/ R
+# website4V/images/ RE
+# enz.
